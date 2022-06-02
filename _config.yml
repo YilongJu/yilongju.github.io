@@ -1,0 +1,5 @@
+url: "https://yilongju.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "Yilong's Homepage" # the name of your site, e.g. ACME Corp.
+description: ""
+theme: academic-jekyll-theme
