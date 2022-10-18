@@ -22,4 +22,4 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/yilongju'}
 
 contacts:
-- {name: 'Yilong Ju', title: 'Ph.D. Student', department: 'Computer Science', institution: 'Rice University', institution_address: '6100 Main St, Houston, TX 77005', phone: '(713) 348-0000', email: 'yj31@rice.edu', office: 'Duncan Hall 3036', image: 'assets/img/contact.jpg'}
+- {name: 'Yilong Ju', title: 'Ph.D. Student', department: 'Computer Science', institution: 'Rice University', institution_address: '6100 Main St, Houston, TX 77005', phone: '(267)6667618', email: 'yj31@rice.edu', office: 'Duncan Hall 3036', image: 'assets/img/contact.jpg'}
