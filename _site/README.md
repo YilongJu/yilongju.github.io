@@ -1,3 +1,12 @@
+# Notes
+### Clustrmaps
+https://clustrmaps.com/site/1brqn
+## Add Google Analytics
+See https://stackoverflow.com/questions/17207458/how-to-add-google-analytics-tracking-id-to-github-pages
+("As of April 2022, the above theme has more directions re: Google Analytics and using GA's newer scripts: github.com/pages-themes/minimal/tree/… –
+manroe
+ Apr 23 at 17:26")
+
 # academic
 
 ### A Jekyll theme for academia
